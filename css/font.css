@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Bold.ttf);
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Medium.ttf);
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Regular.ttf);
+}
+@font-face {
+    font-family: "Fraunces 9pt";
+    src: url(../fonts/Fraunces_9pt-Bold.ttf);
+}
+@font-face {
+    font-family: "Fraunces 9pt";
+    src: url(../fonts/Fraunces_9pt-Regular.ttf);
+}
+@font-face {
+    font-family: "Fraunces 9pt";
+    src: url(../fonts/Fraunces_9pt_Soft-SemiBold.ttf);
+}
